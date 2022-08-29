@@ -1,5 +1,6 @@
 {
   "name": "goal-seek",
+  "homepage": "goal-seek",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
