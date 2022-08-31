@@ -7,7 +7,7 @@ import './App.css';
 const App = () => {
   const [courseGoals, setCourseGoals] = useState([
     { text: 'Do all exercises!', id: 'g1' },
-    { text: 'Finish the course!', id: 'g2' }
+    { text: 'Finish the course!', id: 'g2' },
   ]);
 
   const addGoalHandler = enteredText => {
@@ -37,10 +37,10 @@ const App = () => {
 
   return (
     <div>
-      <section id="goal-form">
+      <section id='goal-form'>
         <CourseInput onAddGoal={addGoalHandler} />
       </section>
-      <section id="goals">
+      <section id='goals'>
         {content}
         {/* {courseGoals.length > 0 && (
           <CourseGoalList
