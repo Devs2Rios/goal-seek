@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/goal-seek/static/css/main.54b784f1.chunk.css",
-    "main.js": "/goal-seek/static/js/main.28937425.chunk.js",
-    "main.js.map": "/goal-seek/static/js/main.28937425.chunk.js.map",
+    "main.css": "/goal-seek/static/css/main.38c5d345.chunk.css",
+    "main.js": "/goal-seek/static/js/main.dcae5668.chunk.js",
+    "main.js.map": "/goal-seek/static/js/main.dcae5668.chunk.js.map",
     "runtime-main.js": "/goal-seek/static/js/runtime-main.8275d4e8.js",
     "runtime-main.js.map": "/goal-seek/static/js/runtime-main.8275d4e8.js.map",
-    "static/js/2.79f801bf.chunk.js": "/goal-seek/static/js/2.79f801bf.chunk.js",
-    "static/js/2.79f801bf.chunk.js.map": "/goal-seek/static/js/2.79f801bf.chunk.js.map",
+    "static/js/2.de2eafa6.chunk.js": "/goal-seek/static/js/2.de2eafa6.chunk.js",
+    "static/js/2.de2eafa6.chunk.js.map": "/goal-seek/static/js/2.de2eafa6.chunk.js.map",
     "index.html": "/goal-seek/index.html",
-    "static/css/main.54b784f1.chunk.css.map": "/goal-seek/static/css/main.54b784f1.chunk.css.map",
-    "static/js/2.79f801bf.chunk.js.LICENSE.txt": "/goal-seek/static/js/2.79f801bf.chunk.js.LICENSE.txt"
+    "static/css/main.38c5d345.chunk.css.map": "/goal-seek/static/css/main.38c5d345.chunk.css.map",
+    "static/js/2.de2eafa6.chunk.js.LICENSE.txt": "/goal-seek/static/js/2.de2eafa6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8275d4e8.js",
-    "static/js/2.79f801bf.chunk.js",
-    "static/css/main.54b784f1.chunk.css",
-    "static/js/main.28937425.chunk.js"
+    "static/js/2.de2eafa6.chunk.js",
+    "static/css/main.38c5d345.chunk.css",
+    "static/js/main.dcae5668.chunk.js"
   ]
 }
